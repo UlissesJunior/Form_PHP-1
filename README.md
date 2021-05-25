@@ -44,5 +44,33 @@ No HTML: Recebe o nome, peso, sexo e altura do usuário. <p>
 No PHP: Se o usuário for do sexo masculino, é utilizado a fórmula $pi=pow($altura,2)*23, se o usuário for do sexo feminino, é utilizado a fórmula $pi=pow($altura,2)*22.
 Se o $peso>$pi, será emitida uma mensagem em vermelho "Você está acima do peso ideal", se o $peso==$pi, será emitida uma mensagem em azul "Você está Você está dentro do peso ideal", Se o $peso<$pi, será emitida uma mensagem em amarelo "Você está abaixo do peso ideal".
 <p align="center">
-<img src="assets/ex5.gif">
+<img src="assets/ex6.gif">
+<p>
+
+## Exercício 7
+No HTML: Recebe uma temperatura em ºF do usuário. <p> 
+No PHP: Converte o número informado e seus 10 sucessores em ºC, utilizando a fórmula $r=($temp-32)*5/9.
+<p align="center">
+<img src="assets/ex7.gif">
+<p>
+  
+## Exercício 8
+No HTML: Recebe um valor aleatório do usuário. <p> 
+No PHP: Converte o número informado e seus 20 sucessores em raiz quadrada.
+<p align="center">
+<img src="assets/ex8.gif">
+<p>
+  
+## Exercício 9
+No HTML: Recebe uma frase e um número do usuário. <p> 
+No PHP: Faz uma tabela, onde o número do colunas é = ao número informado pelo usuário, em cada tabela a frase se repetirá.
+<p align="center">
+<img src="assets/ex9.gif">
+<p>
+  
+## Exercício 10
+No HTML: Recebe o nome, valor de investimento, tipo de investimento e tempo de investimento do usuário. <p> 
+No PHP: Faz uma tabela, informando a rentabilidade do dinheiro a cada tempo informado pelo usuário. 
+<p align="center">
+<img src="assets/ex10.gif">
 <p>
